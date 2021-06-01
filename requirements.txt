@@ -3,3 +3,4 @@ Pillow==8.2.0
 prettytable==2.1.0
 wcwidth==0.2.5
 django==3.2.3
+django-heroku==3.2.3
